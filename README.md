@@ -27,7 +27,7 @@ Welcome to my little corner of GitHub.
 
 ---
 
-### ⚒ Tech Stack
+### ✦ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,html,css,mysql,git,github,vscode&theme=dark" />
