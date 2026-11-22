@@ -1,5 +1,11 @@
 
 <div align="center">
+  <img src="./pia-banner.png.webp" alt="Purple Pixel-Art Banner" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
 
 # ✦ Hello, I'm Pia!
 
