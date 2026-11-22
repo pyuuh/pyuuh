@@ -7,55 +7,51 @@
 
 <div align="center">
 
-# ✦ Hello, I'm Pia!
+# ✦ Hello, I'm Pia! ✦
 
 ### IT Student | Developer | Tech Explorer
 
-Welcome to my little corner of GitHub.
+Welcome to my little corner of GitHub:p
 
 </div>
 
 ---
 
-### ✦ About Me
 
-- 🎓 Information Technology Student
-- 🔐 Interested in Cybersecurity
-- 🌐 Exploring IoT and Software Development
-- 🎨 Passionate about UI/UX Design
-- 💻 Learning, building, and creating
+<h2 align="center">✦ About Me ✦</h2>
 
----
-
-### ✦ Tech Stack
+<h3 align="center">Hello, World! or Universe rather? I'm Pia :)</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,mysql,git,github,vscode&theme=dark" />
+  An Information Technology student exploring the
+  intersection of technology, creativity, and design.
+  <br>
+  I enjoy transforming ideas into meaningful digital
+  experiences, one project at a time.
 </p>
 
----
+<br>
 
-### ✦ Featured Projects
+```javascript
+const pia = {
+  role: "Information Technology Student",
+  university: "USTP",
 
-Coming soon...
+  interests: [
+    "Cybersecurity",
+    "Internet of Things",
+    "UI/UX Design",
+    "Software Development"
+  ],
 
----
+  currentlyLearning: [
+    "Web Development",
+    "IoT Technologies",
+    "Information Security"
+  ],
 
-### ✦ GitHub Activity
+  philosophy: "Create. Explore. Evolve."
+};
+```
 
-More updates soon!
-
-<!--
-**pyuuh/pyuuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
