@@ -19,47 +19,21 @@ Welcome to my little corner of GitHub:p
 
 
 
-<!-- ABOUT ME START -->
+
+<!-- ABOUT ME -->
 
 <h2 align="center">✦ A Little About Me ✦</h2>
 
 <table>
   <tr>
-    <td width="76%" valign="middle">
-      <img
-        src="./pia-about-window.svg"
-        alt="Pia's retro desktop introduction"
-        width="100%"
-      />
+    <td width="75%" align="center">
+      <img src="pia-about-window.svg" width="100%" alt="About Me" />
     </td>
-    <td width="24%" align="center" valign="middle">
-      <img
-        src="./pia-pixel-cat.gif"
-        alt="Animated lavender pixel cat"
-        width="150"
-      />
+    <td width="25%" align="center">
+      <img src="pia-pixel-cat.gif" width="170" alt="Pixel Cat" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <em>
-    A little bit of code, a little bit of creativity,
-    and a whole universe of possibilities. ✦
-  </em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/UI%2FUX-9333EA?style=flat-square" />
-  <img src="https://img.shields.io/badge/IoT-A855F7?style=flat-square" />
-</p>
-
-<br>
-
-<!-- ABOUT ME END -->
-
-
 
 ```javascript
 const pia = {
